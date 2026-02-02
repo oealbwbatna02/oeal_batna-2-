@@ -27,7 +27,15 @@ function Hero() {
               <div className="text-center text-white px-4">
                 <h2 className="text-4xl md:text-6xl font-bold mb-4">معاً نبني المستقبل</h2>
                 <p className="text-xl md:text-2xl mb-8">منصة تفاعلية للشباب المبدع</p>
-                <button onClick={() => window.open("https://forms.gle/BXCx11URXUCPCoTk8","_blank")} className="btn-primary">انضم إلينا</button>
+               <a
+  href="https://forms.gle/BXCx11URXUCPCoTk8"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="btn-primary inline-block"
+>
+  انضم إلينا
+</a>
+
               </div>
             </div>
           </div>

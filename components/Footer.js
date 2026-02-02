@@ -25,13 +25,13 @@ function Footer() {
               <div className="space-y-2 text-gray-300">
                 <p>جامعة باتنة 2، باتنة، الجزائر</p>
                 <p>+213 555 000 000</p>
-                <p>oelg.batna2@university.dz</p>
+                <p>oealbatna02@gmail.com</p>
               </div>
             </div>
           </div>
 
           <div className="border-t border-gray-700 pt-6 text-center text-gray-300">
-            <p>&copy; 2025 المنظمة الطلابية الجزائرية الحرة - مكتب باتنة 2. جميع الحقوق محفوظة.</p>
+            <p>&copy; 2026 المنظمة الطلابية الجزائرية الحرة - مكتب باتنة 2. جميع الحقوق محفوظة.</p>
           </div>
         </div>
       </footer>

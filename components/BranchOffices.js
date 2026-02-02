@@ -19,7 +19,7 @@ function BranchOffices() {
         president: {
           name: "دادة عماد  ",
           phone: "+213 555 200 001",
-          image: "/images/preinfo.jpg"
+          image: "images/preinfo.jpg"
         }
       },
       {
@@ -29,7 +29,7 @@ function BranchOffices() {
         president: {
           name: "بلحابس إسلام  ",
           phone: "+213 555 200 003",
-          image: "/images/prest.jpg"
+          image: "images/prest.jpg"
         }
       },
       {
@@ -39,7 +39,7 @@ function BranchOffices() {
         president: {
           name: "بوراس ناهد  ",
           phone: "+213 555 200 005",
-          image: "/images/fille.png"
+          image: "images/fille.png"
         }
       },
       {
@@ -49,7 +49,7 @@ function BranchOffices() {
         president: {
           name: " دحماني خالد ",
           phone: "+213 555 200 007",
-          image: " /images/prehse.jpg"
+          image: "images/prehse.jpg"
         }
       },
       {
@@ -59,7 +59,7 @@ function BranchOffices() {
         president: {
           name: "العايب بسملة ",
           phone: "+213 555 200 009",
-          image: "/images/fille.png"
+          image: "images/fille.png"
         }
       },
       {
@@ -69,7 +69,7 @@ function BranchOffices() {
         president: {
           name: "عيشي باسم ",
           phone: "+213 555 200 011",
-          image: "/images/pregeo.png"
+          image: "images/pregeo.png"
         }
       },
 
@@ -91,7 +91,7 @@ function BranchOffices() {
         president: {
           name: "علول مروة  ",
           phone: "+213 555 200 015",
-          image: "/images/fille.png"
+          image: "images/fille.png"
         }
       },
       {
@@ -101,7 +101,7 @@ function BranchOffices() {
         president: {
           name: "رئيس المكتب",
           phone: "+213 555 200 017",
-          image: "/images/fes3.png"
+          image: "images/fes3.png"
         }
       },
       {
@@ -111,7 +111,7 @@ function BranchOffices() {
         president: {
           name: "ايوب  ",
           phone: "+213 555 200 019",
-          image: "/images/fes4.jpg"
+          image: "images/fes4.jpg"
         }
       },
       {
@@ -121,7 +121,7 @@ function BranchOffices() {
         president: {
           name: "بوراس ناهد ",
           phone: "+213 555 200 021",
-          image: "/images/fille.png"
+          image: "images/fille.png"
         }
       },
       {
@@ -131,7 +131,7 @@ function BranchOffices() {
         president: {
           name: "سندس  ",
           phone: "+213 555 200 023",
-          image: "/images/fille.png"
+          image: "images/fille.png"
         }
       }
     ];

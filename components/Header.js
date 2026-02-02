@@ -15,7 +15,7 @@ function Header() {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
-              <img src="/images/logo.jpeg"  alt="Logo" className="w-16 h-16 object-cover rounded-full bg-gray-200"  />
+              <img src="images/logo.jpeg"  alt="Logo" className="w-16 h-16 object-cover rounded-full bg-gray-200"  />
 
               <div>
                 <h1 className="text-xl font-bold text-[var(--text-dark)]">المنظمة الطلابية الجزائرية الحرة</h1>

@@ -3,9 +3,9 @@ function Hero() {
     const [currentSlide, setCurrentSlide] = React.useState(0);
 
     const slides = [
-      { type: 'image', url: '/images/slide4.jpg', caption: 'فعالية ' },
-      { type: 'image', url: '/images/slide5.jpg', caption: 'اجتماع ' },
-      { type: 'image', url: '/images/slide6.jpg', caption: 'ندوة ' }
+      { type: 'image', url: 'images/slide4.jpg', caption: 'فعالية ' },
+      { type: 'image', url: 'images/slide5.jpg', caption: 'اجتماع ' },
+      { type: 'image', url: 'images/slide6.jpg', caption: 'ندوة ' }
     ];
 
     React.useEffect(() => {

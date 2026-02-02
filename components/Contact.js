@@ -83,7 +83,7 @@ function Contact() {
                   </div>
                   <div>
                     <h4 className="font-bold mb-1">الهاتف</h4>
-                    <p className="text-[var(--text-light)]">+213 555 000 000</p>
+                    <p className="text-[var(--text-light)]">+213 698 384 032</p>
                   </div>
                 </div>
 
@@ -104,14 +104,8 @@ function Contact() {
                   <div>
                     <h4 className="font-bold mb-2">تابعنا</h4>
                     <div className="flex gap-3">
-                      <a href="#" className="w-10 h-10 bg-[var(--primary-color)] text-white rounded-full flex items-center justify-center hover:bg-[var(--secondary-color)]">
+                      <a href="https://www.facebook.com/profile.php?id=100064023486084&locale=ar_AR" className="w-10 h-10 bg-[var(--primary-color)] text-white rounded-full flex items-center justify-center hover:bg-[var(--secondary-color)]">
                         <div className="icon-facebook text-lg"></div>
-                      </a>
-                      <a href="#" className="w-10 h-10 bg-[var(--primary-color)] text-white rounded-full flex items-center justify-center hover:bg-[var(--secondary-color)]">
-                        <div className="icon-instagram text-lg"></div>
-                      </a>
-                      <a href="#" className="w-10 h-10 bg-[var(--primary-color)] text-white rounded-full flex items-center justify-center hover:bg-[var(--secondary-color)]">
-                        <div className="icon-twitter text-lg"></div>
                       </a>
                     </div>
                   </div>

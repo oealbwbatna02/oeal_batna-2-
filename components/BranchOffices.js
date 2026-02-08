@@ -59,7 +59,7 @@ function BranchOffices() {
         icon: "shield-check",
         president: {
           name: " نموشي فايز",
-          phone: "+213 555 200 007",
+          phone: "+213 774 244 979",
           image: "images/prestaps.jpg"
         }
       },

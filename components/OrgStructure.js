@@ -5,23 +5,25 @@ function OrgStructure() {
     const president = {
       name: 'صكاك همام ضياء الدين',
       position: 'الرئيس',
-      phone: '+213 555 123 456',
+      phone: '+213 550 729 502',
       image: 'images/president.jpg'
     };
     
     const boardMembers = [
       { name: ' مباركي موسى أنيس', position: 'نائب الرئيس', phone: '+213 668 227 002', image: 'images/member1.jpg' },
-      { name: ' قزي مصطفى', position: 'مسؤول الشؤون البيداغوجية', phone: '+213 698 384 032', image: 'images/member2.jpg' },
-      { name: 'عيشي باسم', position: 'مسؤول التنظيم', phone: '+213 555 123 459', image: 'images/member3.jpg' },
-      { name: 'قشي عبد الحليم', position: 'مسؤول الثانويين', phone: '+213 656 685 690', image: 'images/member4.jpg' },
-      { name: 'لبرارة أيوب', position: 'مسؤول الشؤون الاجتماعية', phone: '+213 555 123 461', image: 'images/member5.jpg' },
-      { name: 'دحماني خالد ', position: 'مسؤول النشاطات التكوين و التدريب', phone: '+213 555 123 462', image: 'images/member6.jpg' },
-      { name: 'سمون العيد ', position: 'مسؤول المالية والوسائل العامة', phone: '+213 555 123 463', image: 'images/member7.jpg' },
-      { name: ' بولفراق عبد المومن ', position: 'مسؤول التخطيط والاستشراف', phone: '+213 555 123 464', image: 'images/member8.jpg' },
-      { name: 'بوبريمة محمد إسلام ', position: 'مسؤول العلاقات الخارجية', phone: '+213 555 123 466', image: 'images/member10.jpg' },
-      { name: 'معصم مريم  ', position: 'مسؤول الطالبات ', phone: '+213 555 123 465', image: 'images/member9.jpg' },
-      { name: '  سي عبدالله زين الدين ', position: 'مسؤول الإعلام ', phone: '+213 555 123 466', image: 'images/member11.jpg' },
-      { name: '  بوبعاية سيرين ', position: 'عضو ', phone: '+213 555 123 466', image: 'images/member12.jpg' },
+      { name: ' قزي مصطفى', position: 'مسؤول التنظيم ', phone: '+213 698 384 032', image: 'images/member2.jpg' },
+      { name: '  بوبعاية سيرين ', position: 'مسؤول الشؤون البيداغوجيا ', image: 'images/member12.jpg' },
+      { name: 'لبرارة أيوب', position: 'مسؤول الشؤون الاجتماعية', phone: '+213 555 897 337', image: 'images/member5.jpg' },     
+      { name: '  سي عبدالله زين الدين ', position: 'مسؤول الإعلام ', phone: '+213 777 194 806', image: 'images/member11.jpg' },
+      { name: 'معصم مريم  ', position: 'مسؤول النشاطات التكوين و التدريب  ', image: 'images/member9.jpg' },
+      { name: 'سمون العيد ', position: 'مسؤول الإدارة و المالية والوسائل العامة', phone: '+213 784 464 094', image: 'images/member7.jpg' },
+      { name: 'بوبريمة محمد إسلام ', position: 'مسؤول العلاقات الخارجية', phone: '+213 779 432 968', image: 'images/member10.jpg' },
+      { name: 'قشي عبد الحليم', position: 'مسؤول الثانويين', phone: '+213 794 025 882', image: 'images/member4.jpg' },
+      { name: ' بلفراق عبد المومن ', position: 'مسؤول التخطيط والاستشراف', phone: '+213 650 048 537', image: 'images/member8.jpg' },
+      { name: 'دحماني خالد ', position: 'عضو ', phone: '+213 698 835 828', image: 'images/member6.jpg' },
+      { name: 'عيشي باسم', position: 'عضو  ', phone: '+213 674 351 317 ', image: 'images/member3.jpg' },
+      
+      
     ];
 
     return (

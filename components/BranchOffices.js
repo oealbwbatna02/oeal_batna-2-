@@ -71,7 +71,7 @@ function BranchOffices() {
         president: {
           name: "العايب بسملة ",
          
-          image: "images/fille.png"
+          image: "images/prelangue.jpeg"
         }
       },
       {

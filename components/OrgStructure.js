@@ -5,7 +5,7 @@ function OrgStructure() {
     const president = {
       name: 'صكاك همام ضياء الدين',
       position: 'الرئيس',
-      phone: '+213 550 729 502',
+      phone: '0550729502',
       image: 'images/president.jpg'
     };
     
